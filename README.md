@@ -17,7 +17,7 @@ Welcome to my GitHub! I am a software engineering grad and a self-taught web dev
 - **Soft Skills:** Instructional Design, Mentorship, Team Collaboration, Fluent English (C1)
 
 ### 📂 Featured Projects
-* 🃏 **In process** 
+* 🃏 **Blackjack Game:** An interactive card game built from scratch using Vanilla JavaScript (ES6+) and bundled with Vite. Focuses on game logic, DOM manipulation, and asset management.
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [Armando Jiménez](https://www.linkedin.com/in/armandojf-dev)
