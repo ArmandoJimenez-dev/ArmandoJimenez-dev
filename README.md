@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Armando! 👋
 
-<!--
-**ArmandoJimenez-dev/ArmandoJimenez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer | JavaScript (ES6+), HTML5/CSS3 | Information Systems Engineer | EdTech Background | English C1**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I am a software engineering grad and a self-taught web developer based in Mazatlán, Mexico. After spending over a decade in the education sector designing curricula and mentoring students, I am now translating my analytical and communication skills into writing clean, efficient code and building engaging user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm up to right now
+- 🔭 I’m currently building interactive web applications and refining my layout skills.
+- 👨‍💻 Most of my recent projects focus on responsive design and DOM manipulation.
+- 🎯 **Goal:** Landing my first Junior Frontend Developer role by January 2027.
+
+### 🛠️ Tech Stack & Tools
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Build Tools:** Vite
+- **Version Control:** Git, GitHub
+- **Exploring:** Modern JavaScript, React and Tailwind CSS
+- **Soft Skills:** Instructional Design, Mentorship, Team Collaboration, Fluent English (C1)
+
+### 📂 Featured Projects
+* 🃏 **In process** 
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Armando Jiménez](https://www.linkedin.com/in/armandojf-dev)
+- **Email:** [armandojf.dev@gmail.com](mailto:armandojf.dev@gmail.com)
+
+---
+⭐️ *"People ignore design that ignores people." — Frank Chimero*
