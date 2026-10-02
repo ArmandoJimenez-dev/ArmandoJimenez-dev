@@ -19,6 +19,8 @@ Welcome to my GitHub! I am a software engineering grad and a self-taught web dev
 ### 📂 Featured Projects
 * 🃏 **Blackjack Game:** An interactive card game built from scratch using Vanilla JavaScript (ES6+) and bundled with Vite. Focuses on game logic, DOM manipulation, and asset management.
 
+* 🐾 **Lumina Pets:** A responsive multi-page web platform for a pet adoption shelter, built with Vanilla JavaScript and bundled with Vite. Focuses on multi-page architecture (MPA), dynamic DOM rendering, and responsive UI design.
+  
 ### 📫 Let's Connect!
 - **LinkedIn:** [Armando Jiménez](https://www.linkedin.com/in/armandojf-dev)
 - **Email:** [armandojf.dev@gmail.com](mailto:armandojf.dev@gmail.com)
